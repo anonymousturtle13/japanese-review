@@ -92,7 +92,7 @@ async function startKanjiQuiz(newWords = "") {
 
     document.getElementById("correctButton").disabled = true;
     document.getElementById("wrongButton").disabled = true;
-    document.getElementById("finishButtonK").disabled = true;
+    document.getElementById("finishButtonK").disabled = false;
 
     const response = await fetch("./data/kanji.json");
     quizList = await response.json();
@@ -240,7 +240,7 @@ async function startVocabQuiz(mode, newWords = "") {
     quizMode = mode;
 
     document.getElementById("answerBar").disabled = false;
-    document.getElementById("finishButtonV").disabled = true;
+    document.getElementById("finishButtonV").disabled = false;
 
     const response = await fetch("./data/vocab_${quizMode}.json");
     quizList = await response.json();
