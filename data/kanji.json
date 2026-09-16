@@ -1,0 +1,562 @@
+[
+  {
+    "char": "一",
+    "romaji": "one",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "二",
+    "romaji": "two",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "三",
+    "romaji": "three",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "四",
+    "romaji": "four",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "五",
+    "romaji": "five",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "六",
+    "romaji": "six",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "七",
+    "romaji": "seven",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "八",
+    "romaji": "eight",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "九",
+    "romaji": "nine",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "十",
+    "romaji": "ten",
+    "first_seen": "2026-07-30",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "話",
+    "romaji": "talk, story, conversation",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "本",
+    "romaji": "book, origin, real",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "木",
+    "romaji": "tree, wood",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "白",
+    "romaji": "white",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "川",
+    "romaji": "river",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "名",
+    "romaji": "name",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "毎",
+    "romaji": "every",
+    "first_seen": "2026-08-02",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "char": "月",
+    "romaji": "moon, month",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "今",
+    "romaji": "now",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "前",
+    "romaji": "before",
+    "first_seen": "2026-08-04",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "休",
+    "romaji": "rest",
+    "first_seen": "2026-08-04",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "先",
+    "romaji": "ahead, previous",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "時",
+    "romaji": "time",
+    "first_seen": "2026-08-05",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "山",
+    "romaji": "mountain",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "char": "右",
+    "romaji": "right",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "char": "左",
+    "romaji": "left",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "char": "女",
+    "romaji": "woman, female",
+    "first_seen": "2026-08-07",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "char": "学",
+    "romaji": "study, learning, school",
+    "first_seen": "2026-08-07",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "char": "年",
+    "romaji": "year, age",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "北",
+    "romaji": "north",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "小",
+    "romaji": "small",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "父",
+    "romaji": "father",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "間",
+    "romaji": "interval, between",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "火",
+    "romaji": "fire",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "母",
+    "romaji": "mother",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "男",
+    "romaji": "man",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "行",
+    "romaji": "to go",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "校",
+    "romaji": "school",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "西",
+    "romaji": "west",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "南",
+    "romaji": "south",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "東",
+    "romaji": "east",
+    "first_seen": "2026-08-13",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "char": "日",
+    "romaji": "sun, day",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "金",
+    "romaji": "gold, money",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "水",
+    "romaji": "water",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "土",
+    "romaji": "ground, earth",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "大",
+    "romaji": "big",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "上",
+    "romaji": "above",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "下",
+    "romaji": "below",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "生",
+    "romaji": "life",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "雨",
+    "romaji": "rain",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "char": "人",
+    "romaji": "person",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "中",
+    "romaji": "middle, inside",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "子",
+    "romaji": "child",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "見",
+    "romaji": "see, look, watch",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "出",
+    "romaji": "go out, exit, leave",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "国",
+    "romaji": "country",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "気",
+    "romaji": "spirit, feeling, energy, atmosphere",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "入",
+    "romaji": "enter",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "何",
+    "romaji": "what, which",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "来",
+    "romaji": "come",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "高",
+    "romaji": "high, tall, expensive",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "聞",
+    "romaji": "hear, listen, ask",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "語",
+    "romaji": "language, word",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "食",
+    "romaji": "eat, food",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "天",
+    "romaji": "heaven, sky",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "友",
+    "romaji": "friend",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "円",
+    "romaji": "yen, circle",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "半",
+    "romaji": "half",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "午",
+    "romaji": "noon, midday",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "外",
+    "romaji": "outside, other, foreign",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "後",
+    "romaji": "after, behind, later",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "長",
+    "romaji": "long, leader",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "読",
+    "romaji": "read",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "電",
+    "romaji": "electricity",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "車",
+    "romaji": "car, vehicle",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "書",
+    "romaji": "write, writing",
+    "first_seen": "2026-08-20",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "char": "万",
+    "romaji": "ten thousand",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "千",
+    "romaji": "thousand",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "百",
+    "romaji": "hundred",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "char": "分",
+    "romaji": "minute, part, understand",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  }
+]
