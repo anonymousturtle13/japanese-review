@@ -12,33 +12,6 @@
     <!------------ page title ------------->
     <h1>日本語を勉強しましょう！</h1>
 
-    <!------- daily review progress ------->
-    <h3 id="daily">Daily Review</h3>
-    <div id="checkSquares" class="check-squares">
-      <div class="check-square"></div>
-      <div class="check-square"></div>
-      <div class="check-square"></div>
-    </div>
-
-    <!-------------- buttons -------------->
-    <div class="horizontal-buttons">
-      <button id="button" onclick="updateDisplay(`kanjiQuiz`); startKanjiQuiz();">Kanji</button>
-      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`jap`);">Japanese → English</button>
-      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`eng`);">English → Japanese</button>
-    </div>
-    <br>
-
-    <h3 id="vocab">Add Vocab</h3>
-    <div class="horizontal-buttons">
-      <button id="button" onclick="startAddingKanji()">Add Kanji</button>
-      <button id="button" onclick="updateDisplay(`kanjiQuiz`); startKanjiQuiz(`new`);">Review New</button>
-    </div>
-    <div class="horizontal-buttons">
-      <button id="button" onclick="startAddingVocab()">Add Vocab</button>
-      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`eng`, `new`);">Review New (E)</button>
-      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`jap`, `new`);">Review New (J)</button>
-    </div>
-
     <h3 id="endless">Endless Review</h3>
     <div class="horizontal-buttons">
       <button id="button" onclick="updateDisplay(`kanjiQuiz`); startKanjiQuiz(`all`);">Kanji</button>
