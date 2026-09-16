@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!------------ HOME SCREEN: ------------->
+  <div id="homeScreen" class="container">
+
+    <!------------ page title ------------->
+    <h1>日本語を勉強しましょう！</h1>
+
+    <!------- daily review progress ------->
+    <h3 id="daily">Daily Review</h3>
+    <div id="checkSquares" class="check-squares">
+      <div class="check-square"></div>
+      <div class="check-square"></div>
+      <div class="check-square"></div>
+    </div>
+
+    <!-------------- buttons -------------->
+    <div class="horizontal-buttons">
+      <button id="button" onclick="updateDisplay(`kanjiQuiz`); startKanjiQuiz();">Kanji</button>
+      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`jap`);">Japanese → English</button>
+      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`eng`);">English → Japanese</button>
+    </div>
+    <br>
+
+    <h3 id="vocab">Add Vocab</h3>
+    <div class="horizontal-buttons">
+      <button id="button" onclick="startAddingKanji()">Add Kanji</button>
+      <button id="button" onclick="updateDisplay(`kanjiQuiz`); startKanjiQuiz(`new`);">Review New</button>
+    </div>
+    <div class="horizontal-buttons">
+      <button id="button" onclick="startAddingVocab()">Add Vocab</button>
+      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`eng`, `new`);">Review New (E)</button>
+      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`jap`, `new`);">Review New (J)</button>
+    </div>
+
+    <h3 id="endless">Endless Review</h3>
+    <div class="horizontal-buttons">
+      <button id="button" onclick="updateDisplay(`kanjiQuiz`); startKanjiQuiz(`all`);">Kanji</button>
+      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`jap`, `all`);">Japanese → English</button>
+      <button id="button" onclick="updateDisplay(`vocabQuiz`); startVocabQuiz(`eng`, `all`);">English → Japanese</button>
+    </div>
+
+  </div>
+
+
+
+  <!--------- KANJI QUIZ SCREEN: ---------->
+  <div id="kanjiQuiz" class="container" style="display:none;">
+
+    <!------------- progress -------------->
+    <h5 id="kanjiProgress"></h5>
+
+    <!---------- english meaning ---------->
+    <h3 id="writingPrompt"></h3>
+
+    <!-------- canvas & character --------->
+    <div class="writingArea">
+        <canvas id="drawCanvas" width="200" height="200"></canvas>
+        <div id="correctCharacter" class="hiddenCharacter">あ</div>
+    </div>
+
+    <!---------- answer buttons ----------->
+    <div class="answerButtons">
+        <button id="wrongButton" disabled onclick="checkWritingAnswer('wrong')">✗</button>
+        <button id="correctButton" disabled onclick="checkWritingAnswer('right')">✓</button>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    
+    <!----------- back to home ------------>
+    <button onclick="updateDisplay(`homeScreen`)" id="finishButtonK" disabled>Finish</button>
+
+  </div>
+
+
+
+  <!--------- VOCAB QUIZ SCREEN: ---------->
+  <div id="vocabQuiz" class="container" style="display:none;">
+
+    <!------------- progress -------------->
+    <h5 id="vocabProgress"></h5>
+
+    <h3 id="quizWord"></h3>
+
+    <input
+        id="answerBar"
+        type="text"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+    >
+
+    <br>
+    <br>
+    <br>
+    <button onclick="updateDisplay(`homeScreen`)" id="finishButtonV" disabled>Finish</button>
+
+  </div>
+
+  <script src="app.js"></script>
+
+
+
+
+
+  <!---------- ADD KANJI SCREEN: ---------->
+  <div id="addKanjiScreen" class="add-kanji-screen" style="display:none;">
+    <h2>Add Kanji</h2>
+
+    <input type="text" id="kanjiCharInput" placeholder="kanji">
+    <input type="text" id="kanjiMeaningInput" placeholder="meaning">
+
+    <div class="add-kanji-buttons">
+      <button id="kanjiAddOne" onclick=addKanji()>Add More</button>
+      <button id="kanjiAddDone" onclick=finishAddingKanji()>Done</button>
+    </div>
+  </div>
+
+
+  <!---------- ADD VOCAB SCREEN: ---------->
+  <div id="addVocabScreen" class="add-kanji-screen" style="display:none;">
+    <h2>Add Kanji</h2>
+
+    <input type="text" id="vocabJapInput" placeholder="japanese">
+    <input type="text" id="vocabEngInput" placeholder="english">
+
+    <div class="add-kanji-buttons">
+      <button id="vocabAddOne" onclick=addVocab()>Add More</button>
+      <button id="vocabAddDone" onclick=finishAddingVocab()>Done</button>
+    </div>
+  </div>
+
+
+</body>
+
+
+
+</html>

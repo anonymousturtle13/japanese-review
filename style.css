@@ -1,0 +1,440 @@
+/* ================================
+   Base
+================================ */
+
+:root {
+    --bg: #f7f5f1;
+    --surface: #fffdf9;
+    --surface-hover: #f3f0ea;
+    --text: #292725;
+    --text-muted: #77716a;
+    --border: #ded9d1;
+    --border-dark: #c8c1b8;
+    --accent: #b64242;
+    --accent-hover: #9f3535;
+    --shadow: 0 8px 30px rgba(45, 40, 35, 0.08);
+    --radius: 12px;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    background: var(--bg);
+    color: var(--text);
+  
+    font-family:
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      "Hiragino Kaku Gothic ProN",
+      "Yu Gothic",
+      Meiryo,
+      sans-serif;
+  
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  
+  /* ================================
+     Main container
+  ================================ */
+  
+  .container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    padding: 40px;
+  }
+  
+  
+  /* ================================
+     Buttons
+  ================================ */
+  
+  button {
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 500;
+  
+    padding: 11px 22px;
+  
+    color: var(--text);
+    background: var(--surface);
+  
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  
+    cursor: pointer;
+  
+    box-shadow: 0 2px 5px rgba(45, 40, 35, 0.04);
+  
+    transition:
+      background 0.15s ease,
+      border-color 0.15s ease,
+      box-shadow 0.15s ease,
+      transform 0.15s ease;
+  }
+  
+  button:hover {
+    background: var(--surface-hover);
+    border-color: var(--border-dark);
+  
+    box-shadow: 0 4px 12px rgba(45, 40, 35, 0.08);
+  
+    transform: translateY(-1px);
+  }
+  
+  button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 5px rgba(45, 40, 35, 0.05);
+  }
+  
+  
+  /* ================================
+     Check squares
+  ================================ */
+  
+  .check-squares {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  
+    margin-bottom: 20px;
+  }
+  
+  .check-square {
+    width: 42px;
+    height: 42px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    background: var(--surface);
+  
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  
+    font-size: 26px;
+    font-weight: 600;
+  
+    color: var(--accent);
+  
+    box-shadow: 0 2px 6px rgba(45, 40, 35, 0.04);
+  
+    transition:
+      background 0.2s ease,
+      border-color 0.2s ease;
+  }
+  
+  .check-square.checked {
+    background: #f8eaea;
+    border-color: #d7a4a4;
+  }
+  
+  .check-square.checked::after {
+    content: "✓";
+  }
+  
+  
+  /* ================================
+     Writing area
+  ================================ */
+  
+  .writingArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  
+    margin: 30px;
+  
+    padding: 20px;
+  }
+  
+  
+  /* ================================
+     Drawing canvas
+  ================================ */
+  
+  #drawCanvas {
+    border: 1px solid var(--border-dark);
+    border-radius: var(--radius);
+  
+    background: var(--surface);
+  
+    box-shadow: var(--shadow);
+  
+    /* Keeps canvas from looking like a raw browser element */
+    display: block;
+  }
+  
+  
+  /* ================================
+     Hidden character
+  ================================ */
+  
+  .hiddenCharacter {
+    width: 200px;
+    height: 200px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    background: var(--surface);
+  
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  
+    font-size: 100px;
+    font-weight: 400;
+  
+    color: var(--text);
+  
+    visibility: hidden;
+  
+    box-shadow: var(--shadow);
+  }
+  
+  
+  /* ================================
+     Answer buttons
+  ================================ */
+  
+  .answerButtons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  
+    margin-top: 30px;
+  }
+  
+  .answerButtons button {
+    width: 90px;
+    height: 50px;
+  
+    padding: 0;
+  
+    font-size: 20px;
+  }
+  
+  .answerButtons button:first-child {
+    color: #3f6b4a;
+  }
+  
+  .answerButtons button:last-child {
+    color: var(--accent);
+  }
+  
+  
+  /* ================================
+     Answer bar
+  ================================ */
+  
+  #answerBar {
+    width: 300px;
+    height: 50px;
+  
+    padding: 0 15px;
+  
+    font-family: inherit;
+    font-size: 22px;
+    color: var(--text);
+  
+    background: var(--surface);
+  
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  
+    outline: none;
+  
+    box-shadow: 0 2px 6px rgba(45, 40, 35, 0.04);
+  
+    transition:
+      border-color 0.15s ease,
+      box-shadow 0.15s ease;
+  }
+  
+  #answerBar:focus {
+    border-color: #b9aaa0;
+  
+    box-shadow:
+      0 0 0 3px rgba(182, 66, 66, 0.08),
+      0 2px 6px rgba(45, 40, 35, 0.04);
+  }
+  
+  
+  /* ================================
+     Add Kanji screen
+  ================================ */
+  
+  .add-kanji-screen {
+    position: fixed;
+  
+    width: 432px;
+    height: 576px;
+  
+    left: 50%;
+    top: 50%;
+  
+    transform: translate(-50%, -50%);
+  
+    background: var(--surface);
+  
+    z-index: 1000;
+  
+    flex-direction: column;
+    align-items: center;
+  
+    padding: 35px;
+  
+    border: 1px solid var(--border);
+    border-radius: 16px;
+  
+    box-shadow:
+      0 20px 60px rgba(45, 40, 35, 0.18);
+  }
+  
+  .add-kanji-screen input {
+    width: 100%;
+  
+    padding: 13px 14px;
+    margin-bottom: 20px;
+  
+    font-family: inherit;
+    font-size: 18px;
+    color: var(--text);
+  
+    background: #faf8f4;
+  
+    border: 1px solid var(--border);
+    border-radius: 9px;
+  
+    outline: none;
+  
+    transition:
+      border-color 0.15s ease,
+      box-shadow 0.15s ease;
+  }
+  
+  .add-kanji-screen input:focus {
+    border-color: #b9aaa0;
+  
+    box-shadow:
+      0 0 0 3px rgba(182, 66, 66, 0.08);
+  }
+  
+  
+  /* ================================
+     Add Kanji buttons
+  ================================ */
+  
+  .add-kanji-buttons {
+    width: 100%;
+  
+    margin-top: auto;
+  
+    display: flex;
+    justify-content: space-between;
+  
+    gap: 15px;
+  }
+  
+  .add-kanji-buttons button {
+    flex: 1;
+  
+    padding: 12px;
+  
+    font-size: 16px;
+  }
+  
+  
+  /* ================================
+     Horizontal buttons
+  ================================ */
+  
+  .horizontal-buttons {
+    display: flex;
+    flex-direction: row;
+  
+    gap: 10px;
+  
+    width: 100%;
+  }
+  
+  .horizontal-buttons button {
+    flex: 1;
+  }
+  
+  
+  /* ================================
+     Small screens
+  ================================ */
+  
+  @media (max-width: 700px) {
+    .container {
+      padding: 20px;
+    }
+  
+    .writingArea {
+      gap: 15px;
+      margin: 15px;
+      padding: 10px;
+    }
+  
+    .hiddenCharacter {
+      width: 160px;
+      height: 160px;
+      font-size: 80px;
+    }
+  
+    #drawCanvas {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .add-kanji-screen {
+      width: calc(100vw - 30px);
+      height: calc(100vh - 30px);
+  
+      padding: 25px;
+    }
+  
+    .writingArea {
+      flex-direction: column;
+    }
+  
+    .hiddenCharacter {
+      width: 180px;
+      height: 180px;
+    }
+  }
+
+  button:disabled {
+    cursor: default;
+    opacity: 0.45;
+    background: var(--surface);
+    border-color: var(--border);
+    box-shadow: none;
+    transform: none;
+  }
+  
+  button:disabled:hover {
+    background: var(--surface);
+    border-color: var(--border);
+    box-shadow: none;
+    transform: none;
+  }
