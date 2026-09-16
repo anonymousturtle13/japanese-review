@@ -85,7 +85,7 @@ let ctx;
 let canDraw = true;
 let drawing = false;
 
-function startKanjiQuiz(newWords = "") {
+async function startKanjiQuiz(newWords = "") {
     newWordsOnly = newWords;
 
     canDraw = true;
@@ -234,7 +234,7 @@ let quizMode = ""
 let displayWord = ""
 let answerWord = ""
 
-function startVocabQuiz(mode, newWords = "") {
+async function startVocabQuiz(mode, newWords = "") {
     newWordsOnly = newWords;
 
     quizMode = mode;
