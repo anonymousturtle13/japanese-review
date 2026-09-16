@@ -242,7 +242,7 @@ async function startVocabQuiz(mode, newWords = "") {
     document.getElementById("answerBar").disabled = false;
     document.getElementById("finishButtonV").disabled = false;
 
-    const response = await fetch("./data/vocab_${quizMode}.json");
+    const response = await fetch(`./data/vocab_${quizMode}.json`);
     quizList = await response.json();
 
     createQuizQueue();
