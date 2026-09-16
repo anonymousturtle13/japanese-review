@@ -1,40 +1,3 @@
-const fs = require("fs");
-const path = require("path");
-
-let dailyStatus = [];
-
-window.onload = function () {
-
-    // get today's review status
-    filePath = path.join(__dirname, "data/status.json");
-    const fileData = fs.readFileSync(filePath, "utf8");
-    dailyStatus = JSON.parse(fileData);
-
-    // reset review progress if next day
-    today = new Date().toLocaleDateString("en-CA", {timeZone: "America/Chicago"});
-
-    if (today != dailyStatus.date) {
-        dailyStatus.date = today;
-        dailyStatus.kanji_done = false;
-        dailyStatus.jpen_done = false;
-        dailyStatus.enjp_done = false;
-    }
-    
-    // update checkboxes
-    updateCheckSquares([dailyStatus.kanji_done, dailyStatus.jpen_done, dailyStatus.enjp_done]);
-}
-
-function updateCheckSquares(checks) {
-
-    squares = document.querySelectorAll("#checkSquares .check-square");
-
-    squares.forEach((square, index) => {
-        square.classList.toggle("checked", checks[index]);
-    });
-
-    fs.writeFileSync("data/status.json", JSON.stringify(dailyStatus, null, 2));
-}
-
 function updateDisplay(displayID) {
 
     const containers = document.querySelectorAll(".container");
@@ -131,9 +94,8 @@ function startKanjiQuiz(newWords = "") {
     document.getElementById("wrongButton").disabled = true;
     document.getElementById("finishButtonK").disabled = true;
 
-    filePath = path.join(__dirname, "data/kanji.json");
-    const fileData = fs.readFileSync(filePath, "utf8");
-    quizList = JSON.parse(fileData);
+    const response = await fetch("./data/kanji.json");
+    quizList = await response.json();
 
     createQuizQueue();
     nextKanjiChar();
@@ -259,9 +221,6 @@ function checkWritingAnswer(result) {
             );    
         }
 
-        dailyStatus.kanji_done = true;
-        updateCheckSquares([dailyStatus.kanji_done, dailyStatus.jpen_done, dailyStatus.enjp_done]);
-
         return;
     }
 
@@ -283,9 +242,8 @@ function startVocabQuiz(mode, newWords = "") {
     document.getElementById("answerBar").disabled = false;
     document.getElementById("finishButtonV").disabled = true;
 
-    filePath = path.join(__dirname, `data/vocab_${quizMode}.json`);
-    const fileData = fs.readFileSync(filePath, "utf8");
-    quizList = JSON.parse(fileData);
+    const response = await fetch("./data/vocab_${quizMode}.json");
+    quizList = await response.json();
 
     createQuizQueue();
     nextVocabWord();
@@ -306,11 +264,6 @@ function nextVocabWord() {
         document.getElementById("answerBar").value = "";
         document.getElementById("answerBar").disabled = true;
         document.getElementById("finishButtonV").disabled = false;
-
-        if (quizMode == "jap") {dailyStatus.jpen_done = true;}
-        if (quizMode == "eng") {dailyStatus.enjp_done = true;}
-
-        updateCheckSquares([dailyStatus.kanji_done, dailyStatus.jpen_done, dailyStatus.enjp_done]);
 
         return;
     }
@@ -362,117 +315,3 @@ document.getElementById("answerBar").addEventListener("keydown", function(e) {
 
     nextVocabWord();
 });
-
-
-
-
-
-
-let kanjiList = [];
-
-function startAddingKanji() {
-
-    filePath = path.join(__dirname, "data/kanji.json");
-    const fileData = fs.readFileSync(filePath, "utf8");
-    kanjiList = JSON.parse(fileData);
-
-    document.getElementById("addKanjiScreen").style.display = "flex";
-
-    document.getElementById("kanjiCharInput").value = "";
-    document.getElementById("kanjiMeaningInput").value = "";
-}
-
-function addKanji() {
-
-    const char = document.getElementById("kanjiCharInput").value.trim();
-    const meaning = document.getElementById("kanjiMeaningInput").value.trim();
-
-    if (!char || !meaning) {
-        return;
-    }
-
-    const today = new Date().toLocaleDateString("en-CA", {timeZone: "America/Chicago"});
-
-    kanjiList.push({
-        char: char,
-        meaning: meaning,
-        first_seen: today,
-        stage: 0,
-        next_seen: ""
-    });
-
-    document.getElementById("kanjiCharInput").value = "";
-    document.getElementById("kanjiMeaningInput").value = "";
-}
-
-function finishAddingKanji() {
-
-    addKanji();
-    console.log(kanjiList);
-
-    fs.writeFileSync(
-        `data/kanji.json`,
-        JSON.stringify(kanjiList, null, 2)
-    );
-
-    document.getElementById("addKanjiScreen").style.display = "none";
-}
-
-
-
-
-
-
-let vocabList = [];
-
-function startAddingVocab() {
-
-    filePath = path.join(__dirname, "data/vocab_eng.json");
-    const fileData = fs.readFileSync(filePath, "utf8");
-    vocabList = JSON.parse(fileData);
-
-    document.getElementById("addVocabScreen").style.display = "flex";
-
-    document.getElementById("vocabJapInput").value = "";
-    document.getElementById("vocabEngInput").value = "";
-}
-
-function addVocab() {
-
-    const japWord = document.getElementById("vocabJapInput").value.trim();
-    const engWord = document.getElementById("vocabEngInput").value.trim();
-
-    if (!japWord || !engWord) {
-        return;
-    }
-
-    const today = new Date().toLocaleDateString("en-CA", {timeZone: "America/Chicago"});
-
-    vocabList.push({
-        jap: japWord,
-        eng: engWord,
-        first_seen: today,
-        stage: 0,
-        next_seen: ""
-    });
-
-    document.getElementById("vocabJapInput").value = "";
-    document.getElementById("vocabEngInput").value = "";
-}
-
-function finishAddingVocab() {
-
-    addVocab();
-
-    fs.writeFileSync(
-        `data/vocab_jap.json`,
-        JSON.stringify(vocabList, null, 2)
-    );
-
-    fs.writeFileSync(
-        `data/vocab_eng.json`,
-        JSON.stringify(vocabList, null, 2)
-    );
-
-    document.getElementById("addVocabScreen").style.display = "none";
-}
