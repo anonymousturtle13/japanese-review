@@ -1,0 +1,2389 @@
+[
+  {
+    "jap": "猫",
+    "eng": "cat",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "犬",
+    "eng": "dog",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "本",
+    "eng": "book",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "日本",
+    "eng": "japan",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "本屋",
+    "eng": "bookstore",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "本当",
+    "eng": "true",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "本当に",
+    "eng": "really",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "話す",
+    "eng": "to speak, to talk",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "会話",
+    "eng": "conversation",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "電話",
+    "eng": "telephone",
+    "first_seen": "2026-07-31",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "携帯",
+    "eng": "cell phone",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "木",
+    "eng": "tree",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "木曜日",
+    "eng": "thursday",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "白い",
+    "eng": "white",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "白鳥",
+    "eng": "swan",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "面白い",
+    "eng": "interesting, funny",
+    "first_seen": "2026-08-01",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "川",
+    "eng": "river",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "名前",
+    "eng": "name",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "苗字",
+    "eng": "surname",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "有名",
+    "eng": "famous",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "毎日",
+    "eng": "every day",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "毎週",
+    "eng": "every week",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "毎月",
+    "eng": "every month",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "毎年",
+    "eng": "every year",
+    "first_seen": "2026-08-02",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "月",
+    "eng": "moon",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "一月",
+    "eng": "january",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "二月",
+    "eng": "february",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "三月",
+    "eng": "march",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "四月",
+    "eng": "april",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "五月",
+    "eng": "may",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "六月",
+    "eng": "june",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "七月",
+    "eng": "july",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "八月",
+    "eng": "august",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "九月",
+    "eng": "september",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "十月",
+    "eng": "october",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "十一月",
+    "eng": "november",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "十二月",
+    "eng": "december",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "今月",
+    "eng": "this month",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "来月",
+    "eng": "next month",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "先月",
+    "eng": "last month",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "月曜日",
+    "eng": "monday",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "今",
+    "eng": "now",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "今日",
+    "eng": "today",
+    "first_seen": "2026-08-03",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "前",
+    "eng": "in front of, before",
+    "first_seen": "2026-08-04",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "午前",
+    "eng": "morning, a.m.",
+    "first_seen": "2026-08-04",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "休む",
+    "eng": "to rest, to take a break, to be absent",
+    "first_seen": "2026-08-04",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "休み",
+    "eng": "rest, day off, holiday, vacation",
+    "first_seen": "2026-08-04",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "先生",
+    "eng": "teacher",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "先週",
+    "eng": "last week",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "時",
+    "eng": "time, moment",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "時間",
+    "eng": "time, hours (duration)",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "時計",
+    "eng": "clock, watch",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "時々",
+    "eng": "sometimes",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "一時",
+    "eng": "one o'clock",
+    "first_seen": "2026-08-05",
+    "stage": 8,
+    "next_seen": "2026-10-05"
+  },
+  {
+    "jap": "山",
+    "eng": "mountain",
+    "first_seen": "2026-08-05",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "右",
+    "eng": "right",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "jap": "右手",
+    "eng": "right hand",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "jap": "右側",
+    "eng": "right side",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "jap": "左",
+    "eng": "left",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "jap": "左手",
+    "eng": "left hand",
+    "first_seen": "2026-08-06",
+    "stage": 8,
+    "next_seen": "2026-10-07"
+  },
+  {
+    "jap": "左側",
+    "eng": "left side",
+    "first_seen": "2026-08-06",
+    "stage": 2,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "学ぶ",
+    "eng": "to learn, to take lessons in",
+    "first_seen": "2026-08-07",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "学生",
+    "eng": "student (individual status)",
+    "first_seen": "2026-08-07",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "生徒",
+    "eng": "student (of a specific teacher/school)",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "学校",
+    "eng": "school",
+    "first_seen": "2026-08-07",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "大学",
+    "eng": "university",
+    "first_seen": "2026-08-07",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "科学",
+    "eng": "science",
+    "first_seen": "2026-08-07",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "年",
+    "eng": "year",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "今年",
+    "eng": "this year",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "去年",
+    "eng": "last year",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "来年",
+    "eng": "next year",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "何年",
+    "eng": "what year, how many years",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "北",
+    "eng": "north",
+    "first_seen": "2026-08-08",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "小さい",
+    "eng": "small",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "小学校",
+    "eng": "elementary school",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "小学生",
+    "eng": "elementary school student",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "小川",
+    "eng": "stream",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "父",
+    "eng": "my dad",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "お父さん",
+    "eng": "father, dad",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "祖父",
+    "eng": "my grandpa",
+    "first_seen": "2026-08-10",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "お祖父さん",
+    "eng": "grandfather, grandpa",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "間違い",
+    "eng": "mistake",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "火",
+    "eng": "fire",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "火曜日",
+    "eng": "tuesday",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "花火",
+    "eng": "fireworks",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "火山",
+    "eng": "volcano",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "明日",
+    "eng": "tomorrow",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "昨日",
+    "eng": "yesterday",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "朝",
+    "eng": "morning",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "夜",
+    "eng": "evening, night",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "友達",
+    "eng": "friend",
+    "first_seen": "2026-08-11",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "お母さん",
+    "eng": "mother, mom",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "母",
+    "eng": "my mom",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "祖母",
+    "eng": "my grandma",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "お祖母さん",
+    "eng": "grandmother, grandma",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "女",
+    "eng": "woman",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "男",
+    "eng": "man",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "兄弟",
+    "eng": "siblings",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "弟",
+    "eng": "younger brother",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "兄",
+    "eng": "older brother",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "妹",
+    "eng": "younger sister",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "姉",
+    "eng": "older sister",
+    "first_seen": "2026-08-12",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "行く",
+    "eng": "to go",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "来る",
+    "eng": "to come",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "洗う",
+    "eng": "to wash",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "食べる",
+    "eng": "to eat",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "飲む",
+    "eng": "to drink",
+    "first_seen": "2026-08-12",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "銀行",
+    "eng": "bank",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "旅行",
+    "eng": "travel, trip",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "高校",
+    "eng": "high school",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "南",
+    "eng": "south",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "西",
+    "eng": "west",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "東",
+    "eng": "east",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "ご飯",
+    "eng": "rice, meal",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "肉",
+    "eng": "meat",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "魚",
+    "eng": "fish",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "叔父",
+    "eng": "my uncle",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "伯父さん",
+    "eng": "uncle",
+    "first_seen": "2026-08-21",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "叔母",
+    "eng": "my aunt",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "伯母さん",
+    "eng": "aunt",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "お兄さん",
+    "eng": "someone's older brother",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "お姉さん",
+    "eng": "someone's older sister",
+    "first_seen": "2026-08-21",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "笑う",
+    "eng": "to laugh",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "泣く",
+    "eng": "to cry",
+    "first_seen": "2026-08-13",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "水",
+    "eng": "water",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "水曜日",
+    "eng": "wednesday",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "水泳",
+    "eng": "swimming",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "お金",
+    "eng": "money",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "金",
+    "eng": "gold",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "金曜日",
+    "eng": "friday",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "日曜日",
+    "eng": "sunday",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "土曜日",
+    "eng": "saturday",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "ここ",
+    "eng": "here",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "そこ",
+    "eng": "there",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "この",
+    "eng": "this + noun",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "その",
+    "eng": "that + noun",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "これ",
+    "eng": "this thing",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "それ",
+    "eng": "that thing",
+    "first_seen": "2026-08-14",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "大きい",
+    "eng": "big",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "大人",
+    "eng": "adult",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "上",
+    "eng": "above, on, up",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "上手",
+    "eng": "skillful, good at",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "上げる",
+    "eng": "to raise",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "下",
+    "eng": "below, under, down",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "下手",
+    "eng": "unskilled, bad at",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "下さい",
+    "eng": "please, give me",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "生まれる",
+    "eng": "to be born",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "雨",
+    "eng": "rain",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "雨の日",
+    "eng": "rainy day",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "雨天",
+    "eng": "rainy weather",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "野菜",
+    "eng": "vegetable",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "果物",
+    "eng": "fruit",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "卵",
+    "eng": "egg",
+    "first_seen": "2026-08-15",
+    "stage": 7,
+    "next_seen": "2026-09-27"
+  },
+  {
+    "jap": "人",
+    "eng": "person",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "人々",
+    "eng": "people",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "日本人",
+    "eng": "japanese person",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "出る",
+    "eng": "to leave, to exit",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "出口",
+    "eng": "exit",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "子ども",
+    "eng": "child, children",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "男の子",
+    "eng": "boy",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "女の子",
+    "eng": "girl",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "中",
+    "eng": "inside",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "中学校",
+    "eng": "middle school",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "見る",
+    "eng": "to see, to watch",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "見せる",
+    "eng": "to show",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "見える",
+    "eng": "to be visible",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "家",
+    "eng": "house",
+    "first_seen": "2026-08-16",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "国",
+    "eng": "country",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "外国",
+    "eng": "foreign country",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "中国",
+    "eng": "china",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "元気",
+    "eng": "healthy, well",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "天気",
+    "eng": "weather",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "気をつける",
+    "eng": "to be careful",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "入る",
+    "eng": "to enter",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "入口",
+    "eng": "entrance",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "何時",
+    "eng": "what time",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "だれ",
+    "eng": "who",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "どこ",
+    "eng": "where",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "いつ",
+    "eng": "when",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "食べ物",
+    "eng": "food",
+    "first_seen": "2026-08-17",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "高い",
+    "eng": "high, expensive",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "聞く",
+    "eng": "to listen, to ask",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "聞こえる",
+    "eng": "to be audible",
+    "first_seen": "2026-08-18",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "英語",
+    "eng": "english",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "言語",
+    "eng": "language",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "外国語",
+    "eng": "foreign language",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "天国",
+    "eng": "heaven, paradise",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "駅",
+    "eng": "station",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "店",
+    "eng": "shop",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "会社",
+    "eng": "company",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "病院",
+    "eng": "hospital",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "公園",
+    "eng": "park",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "車",
+    "eng": "car",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "電車",
+    "eng": "train",
+    "first_seen": "2026-08-18",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "半分",
+    "eng": "half",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "xの半分",
+    "eng": "half of x",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "一時半",
+    "eng": "1:30",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "午後",
+    "eng": "afternoon, p.m.",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "外",
+    "eng": "outside",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "外国人",
+    "eng": "foreigner",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "新しい",
+    "eng": "new",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "古い",
+    "eng": "old",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "楽しい",
+    "eng": "fun",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "安い",
+    "eng": "cheap",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "息子",
+    "eng": "son",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "娘",
+    "eng": "daughter",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "孫",
+    "eng": "grandchild",
+    "first_seen": "2026-08-19",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "後で",
+    "eng": "later",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "後ろ",
+    "eng": "behind, back",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "長い",
+    "eng": "long",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "長い髪",
+    "eng": "long hair",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "読む",
+    "eng": "to read",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "電気",
+    "eng": "light, electricity",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "書く",
+    "eng": "to write",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "千",
+    "eng": "1,000",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "一万",
+    "eng": "10,000",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "百",
+    "eng": "100",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "十万",
+    "eng": "100,000",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "百万",
+    "eng": "1,000,000",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "分かる",
+    "eng": "to understand",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "一分",
+    "eng": "one minute",
+    "first_seen": "2026-08-20",
+    "stage": 6,
+    "next_seen": "2026-09-22"
+  },
+  {
+    "jap": "赤い",
+    "eng": "red",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "青い",
+    "eng": "blue",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "会う",
+    "eng": "to meet",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "明るい",
+    "eng": "light, bright",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "秋",
+    "eng": "autumn, fall",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "池",
+    "eng": "pond",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "医者",
+    "eng": "doctor",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "椅子",
+    "eng": "chair",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "忙しい",
+    "eng": "busy",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "色",
+    "eng": "color",
+    "first_seen": "2026-08-22",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "大切",
+    "eng": "important",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "立つ",
+    "eng": "to stand",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "口",
+    "eng": "mouth",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "靴",
+    "eng": "shoe",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "靴下",
+    "eng": "socks",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "暗い",
+    "eng": "dark",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "黒い",
+    "eng": "black",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "空",
+    "eng": "sky",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "新聞",
+    "eng": "newspaper",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "建物",
+    "eng": "building",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "来週",
+    "eng": "next week",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "来年",
+    "eng": "next year",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "レストラン",
+    "eng": "restaurant",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "ホテル",
+    "eng": "hotel",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "タクシー",
+    "eng": "taxi",
+    "first_seen": "2026-08-23",
+    "stage": 5,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "使う",
+    "eng": "to use",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "疲れる",
+    "eng": "to get tired",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "次",
+    "eng": "next",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "机",
+    "eng": "desk",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "着く",
+    "eng": "to arrive",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "仕事",
+    "eng": "work",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "辞書",
+    "eng": "dictionary",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "静か",
+    "eng": "quiet",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "質問",
+    "eng": "question",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "自転車",
+    "eng": "bicycle",
+    "first_seen": "2026-08-24",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "朝ご飯",
+    "eng": "breakfast",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "足",
+    "eng": "foot, leg",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "遊ぶ",
+    "eng": "to play",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "頭",
+    "eng": "head",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "アパート",
+    "eng": "apartment",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "歩く",
+    "eng": "to walk",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "牛肉",
+    "eng": "beef",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "牛乳",
+    "eng": "milk",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "可愛い",
+    "eng": "cute",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "咲く",
+    "eng": "to blossom",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "砂糖",
+    "eng": "sugar",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "今朝",
+    "eng": "this morning",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "死ぬ",
+    "eng": "to die",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "動物",
+    "eng": "animal",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "夏",
+    "eng": "summer",
+    "first_seen": "2026-08-25",
+    "stage": 4,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "歌",
+    "eng": "song",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "歌う",
+    "eng": "to sing",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "海",
+    "eng": "sea",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "売る",
+    "eng": "to sell",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "映画",
+    "eng": "movie",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "映画館",
+    "eng": "cinema",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "鉛筆",
+    "eng": "pencil",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "お茶",
+    "eng": "tea",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "美味しい",
+    "eng": "tasty, delicious",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "覚える",
+    "eng": "to memorize, to remember",
+    "first_seen": "2026-08-26",
+    "stage": 4,
+    "next_seen": "2026-09-19"
+  },
+  {
+    "jap": "起きる",
+    "eng": "to get up, to wake up",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "お皿",
+    "eng": "plate, dish",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "送る",
+    "eng": "to send",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "遅い",
+    "eng": "late, slow",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "危ない",
+    "eng": "dangerous",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "甘い",
+    "eng": "sweet",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "地下鉄",
+    "eng": "subway",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "地図",
+    "eng": "map",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "手紙",
+    "eng": "letter",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "春",
+    "eng": "spring",
+    "first_seen": "2026-08-27",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "早い",
+    "eng": "early",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "速い",
+    "eng": "fast, quick",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "番号",
+    "eng": "number",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "晩ご飯",
+    "eng": "dinner",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "豚肉",
+    "eng": "pork",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "降る",
+    "eng": "to fall (rain, snow)",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "お風呂",
+    "eng": "bath",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "走る",
+    "eng": "to run",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "働く",
+    "eng": "to work",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "箸",
+    "eng": "chopsticks",
+    "first_seen": "2026-08-28",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "薬",
+    "eng": "medicine",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "曇り",
+    "eng": "cloudy weather",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "消す",
+    "eng": "to turn off",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "答える",
+    "eng": "to answer, to reply",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "今週",
+    "eng": "this week",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "今晩",
+    "eng": "this evening",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "寒い",
+    "eng": "cold",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "塩",
+    "eng": "salt",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "写真",
+    "eng": "photo",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "醤油",
+    "eng": "soy sauce",
+    "first_seen": "2026-08-29",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "誕生日",
+    "eng": "birthday",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "近い",
+    "eng": "near, close",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "違う",
+    "eng": "to be different",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "茶色",
+    "eng": "brown",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "作る",
+    "eng": "to make, to produce",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "詰らない",
+    "eng": "uninteresting",
+    "first_seen": "2026-08-30",
+    "stage": 2,
+    "next_seen": "2026-09-17"
+  },
+  {
+    "jap": "冷たい",
+    "eng": "cold (to the touch)",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "強い",
+    "eng": "strong",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "手",
+    "eng": "hand",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "テレビ",
+    "eng": "tv",
+    "first_seen": "2026-08-30",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "悪い",
+    "eng": "bad",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "私",
+    "eng": "i",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "忘れる",
+    "eng": "to forget",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "若い",
+    "eng": "young",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "六",
+    "eng": "six",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "練習",
+    "eng": "practice",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "冷蔵庫",
+    "eng": "refrigerator",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "料理",
+    "eng": "cooking",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "両親",
+    "eng": "parents",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "留学生",
+    "eng": "foreign student",
+    "first_seen": "2026-08-31",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "帽子",
+    "eng": "hat",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "他",
+    "eng": "another, other",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "欲しい",
+    "eng": "wanting something",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "本棚",
+    "eng": "bookshelf",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "毎朝",
+    "eng": "every morning",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "毎晩",
+    "eng": "every evening",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "不味い",
+    "eng": "bad tasting",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "町",
+    "eng": "city, town",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "待つ",
+    "eng": "to wait",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  },
+  {
+    "jap": "窓",
+    "eng": "window",
+    "first_seen": "2026-09-01",
+    "stage": 3,
+    "next_seen": "2026-09-18"
+  }
+]
